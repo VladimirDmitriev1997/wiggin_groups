@@ -1,4 +1,4 @@
-"""Entry point for project_name."""
+"""Entry point for wiggin_groups."""
 
 from .cli import main  # pragma: no cover
 
